@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="430" viewBox="0 0 1100 430" role="img" aria-labelledby="t d">
+<title id="t">Profit Regression Model Comparison</title><desc id="d">Recorded RMSE, MAE and R squared scores for Linear Regression and Random Forest.</desc>
+<rect width="1100" height="430" fill="#F4F7FB"/><text x="550" y="42" text-anchor="middle" font-family="Arial" font-size="27" font-weight="700" fill="#172B4D">PROFIT REGRESSION MODEL COMPARISON</text>
+<g font-family="Arial" fill="#172B4D"><rect x="48" y="75" width="490" height="300" rx="14" fill="#FFFFFF" stroke="#D9E2EC"/><rect x="562" y="75" width="490" height="300" rx="14" fill="#FFFFFF" stroke="#D9E2EC"/>
+<text x="293" y="115" text-anchor="middle" font-size="22" font-weight="700">Linear Regression</text><text x="807" y="115" text-anchor="middle" font-size="22" font-weight="700">Random Forest</text>
+<text x="80" y="168" font-size="16">RMSE</text><text x="80" y="210" font-size="16">MAE</text><text x="80" y="252" font-size="16">R²</text>
+<text x="594" y="168" font-size="16">RMSE</text><text x="594" y="210" font-size="16">MAE</text><text x="594" y="252" font-size="16">R²</text>
+<text x="480" y="168" text-anchor="end" font-size="17" font-weight="700">3,232,527.847</text><text x="480" y="210" text-anchor="end" font-size="17" font-weight="700">916,608.092</text><text x="480" y="252" text-anchor="end" font-size="17" font-weight="700">0.191</text>
+<text x="994" y="168" text-anchor="end" font-size="17" font-weight="700" fill="#168B7E">2,019,690.066</text><text x="994" y="210" text-anchor="end" font-size="17" font-weight="700" fill="#168B7E">298,859.767</text><text x="994" y="252" text-anchor="end" font-size="17" font-weight="700" fill="#168B7E">0.684</text>
+<path d="M80 285H480M594 285H994" stroke="#D9E2EC" stroke-width="2"/>
+<text x="293" y="322" text-anchor="middle" font-size="14" fill="#61758A">Recorded test split · 2,015 rows</text><text x="807" y="322" text-anchor="middle" font-size="14" fill="#61758A">Recorded test split · 2,015 rows</text>
+<text x="550" y="408" text-anchor="middle" font-size="13" fill="#61758A">Scores transcribed from the supplied Orange workflow description; not independently rerun.</text></g></svg>
